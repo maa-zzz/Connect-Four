@@ -1,0 +1,7 @@
+.playground button{
+    width: 64px ;
+    height: 64px;
+    background-color: rgba(128, 128, 128, 0.595);
+    margin: 1px;
+    border-radius: 50%;
+}
