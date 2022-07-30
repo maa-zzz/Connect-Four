@@ -1,7 +1,17 @@
-.playground button{
+.fluid{
+	background-color: #5e6472;
+	padding-top: 25px;
+	border-bottom: 25px solid #5e6472;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+  
+  }
+  .board button{
     width: 64px ;
     height: 64px;
-    background-color: rgba(128, 128, 128, 0.595);
+    background-color: rgba(128, 128, 128);
     margin: 1px;
     border-radius: 50%;
 }
